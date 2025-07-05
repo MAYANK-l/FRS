@@ -1,4 +1,3 @@
-
 # Face Recognition Attendance System
 
 A desktop-based Python application that automates student attendance using facial recognition technology. It uses OpenCV for face detection and recognition, Tkinter for GUI, and MySQL for student data management.
