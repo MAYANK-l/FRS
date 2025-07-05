@@ -23,9 +23,5 @@ A desktop-based Python application that automates student attendance using facia
 - **Tkinter (GUI)**
 - **MySQL (Database)**
 - **Pillow (Image Processing)**
-- **NumPy**
-
----
-
-## 💾 Folder Structure
+  
 
